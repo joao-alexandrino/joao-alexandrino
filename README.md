@@ -3,7 +3,7 @@
 ##### Estou me graduando em Arquitetura e Urbanismo pela UFC e desenvolvi um interesse especial por dados urbanos e modelagem da informação da Cidade (CIM). Atualmente venho mirando numa carreira em Ciência de Dados, investindo no aprendizado de técnicas de programação, análise de dados, estatística, e machine learning. <br><br>
 
 - 🌱 Estudante de `Data Science` e `Data Analytics` - ex-aluno na [Ada Tech](https://ada.tech/) <br>
-- 🔎 Aluno pesquisador de `CIM` no [led-ufc](https://www.led-ufc.com) <br>
+- 🔎 Pesquisador de `CIM` <br>
 - 👀 Interessado em `Design` por aí <br><br><br>
 
 
