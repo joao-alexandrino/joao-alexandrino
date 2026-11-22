@@ -1,10 +1,10 @@
 ## <sup>🇧🇷</sup>Olá, eu sou o João 👋
 
-##### Estou me graduando em Arquitetura e Urbanismo pela UFC e desenvolvi um interesse especial por dados urbanos e modelagem da informação da Cidade (CIM). Atualmente venho mirando numa carreira em Ciência de Dados, investindo no aprendizado de técnicas de programação, análise de dados, estatística, e machine learning. <br><br>
+##### Sou Mestre em Arquitetura e Urbanismo pela UFC (BR), onde desenvolvi um interesse especial por dados urbanos e Modelagem da Informação da Paisagem (LIM). Atualmente, busco uma carreira em Ciência de Dados, investindo no aprendizado de programação, análise de dados, estatística, e machine learning. <br><br>
 
-- 🌱 Estudante de `Data Science` e `Data Analytics` - ex-aluno na [Ada Tech](https://ada.tech/) <br>
-- 🔎 Pesquisador de `CIM` <br>
-- 👀 Interessado em `Design` por aí <br><br><br>
+- 🌱 Estudando `Data Science` e `Data Analytics` - ex-aluno na [Ada Tech](https://ada.tech/) <br>
+- 🔎 Pesquisando `LIM` <br>
+- 👀 Explorando `Design` <br><br><br>
 
 
 ## Toolset em construção
@@ -36,11 +36,11 @@
 
 ## <sup>🇺🇸</sup>Hello there, I'm John 👋
 
-##### I'm graduating in Architecture and Urbanism at UFC (BR) and I've developed a special interest in urban data and City Information Modeling (CIM). I'm currently aiming for a career in Data Science, investing in learning about programming techniques, data analytics, statistics, and machine learning.<br><br>
+##### I hold a Master's degree in Architecture and Urbanism from UFC (BR), where I've developed a special interest in urban data and Landscape Information Modeling (LIM). I'm currently pursuing a career in Data Science, investing in learning programming, data analytics, statistics, and machine learning.<br><br>
 
-- 🌱 `Data Science` and `Data Analytics` student - former student at [Ada Tech](https://ada.tech/) <br>
-- 🔎 `CIM` undergrad researcher at [led-ufc](https://www.led-ufc.com) <br>
-- 👀 `Design` perceiver out there <br><br><br>
+- 🌱 Studying `Data Science` and `Data Analytics` student - former student at [Ada Tech](https://ada.tech/) <br>
+- 🔎 Researching `LIM` <br>
+- 👀 Exploring `Design` <br><br><br>
 
 
 ## Toolset under development
